@@ -32,7 +32,7 @@ public class Card {
         System.out.println(rank + " of " + suit + "\n");
     }
 
-    public card(String a_rank, String a_suit, int a_value)
+    public Card(String a_rank, String a_suit, int a_value)
     {
         rank = a_rank;
         suit = a_suit;
