@@ -4,7 +4,7 @@ package com.example.leon.bang;
  * Created by Leon on 2/11/2017.
  */
 
-public class card {
+public class Card {
     private String rank;
 
     private String suit;
